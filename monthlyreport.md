@@ -7,5 +7,5 @@
 * Chromium帮助文档，与测试用例合并为一个文档 已自行提交PR
 * 编写Chromium缺陷报告模板 已自行提交PR
 * Deepin-RISCV镜像制作与安装教程 https://github.com/GICEGreenIce/deepin-installation  知乎：https://www.zhihu.com/question/563140229/answer/2734653168
-* 调研了PingCode测试用例库工具 
+* 调研了PingCode测试用例库工具 https://pingcode.com/
 * 调研了rpm包分类的查询网站：http://www.rpmfind.net/linux/RPM/
