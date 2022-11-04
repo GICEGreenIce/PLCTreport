@@ -8,3 +8,4 @@
 * 编写Chromium缺陷报告模板 已自行提交PR
 * Deepin-RISCV镜像制作与安装教程 https://github.com/GICEGreenIce/deepin-installation  知乎：https://www.zhihu.com/question/563140229/answer/2734653168
 * 调研了rpm包分类的查询网站：http://www.rpmfind.net/linux/RPM/ 可以直接在站内搜索rpm包，分类比较完整
+* 调研测试了缺陷管理工具MantisBT：https://github.com/GICEGreenIce/BugTrackingSystem/blob/main/installation&user_guide.md
