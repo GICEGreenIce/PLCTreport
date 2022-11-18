@@ -4,6 +4,8 @@
 * 七千包的遴选工作
 # 本周已完成的产出  
 * 修正后的Thunderbird用例报告整理：https://github.com/GICEGreenIce/RISCV-testcase/tree/master/Thunderbird
-* 修正后的Thunderbird缺陷报告整理：
+* 还有部分剩余用例整理中......
+* 修正后的Thunderbird缺陷报告整理：https://github.com/GICEGreenIce/thunderbird-bug
+* 已经全部整理完成
 
 # 说明：由于上周五重新发布了模板，所以对Thunderbird原有的用例进行了重新整理
